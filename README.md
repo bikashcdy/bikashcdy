@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hi, I'm Bikash 👋</h1>
+<h1 align="center">Hi, I'm Bikash Chaudhary 👋</h1>
 
 <p align="center">
 Full Stack Developer from Nepal<br/>
@@ -54,8 +54,8 @@ Flutter • PHP • MySQL • JavaScript
 
 <p align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-site.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bikashchaudhary.info.np)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bikash-chaudhary-523670369/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharybikash500@gmail.com)
 
 </p>
